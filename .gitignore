@@ -1,2 +1,3 @@
 kickstart/ks.cfg
 *.iso
+wget-log
